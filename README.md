@@ -2,4 +2,4 @@
 
 # bibliohackrom
 
-Codice sorgente del progetto “BiblioBit”, secondo classificato all’hackathon BiblioHackDay 2018 tenutosi presso l’ateneo. Il progetto prevede un “tornello intelligente” che sia in grado di gestire automaticamente i prestiti leggendo i tag RFID allegati ai libri.s
+Codice sorgente del progetto “BiblioBit”, secondo classificato all’hackathon BiblioHackDay 2019 tenutosi presso l’ateneo. Il progetto prevede un “tornello intelligente” che sia in grado di gestire automaticamente i prestiti leggendo i tag RFID allegati ai libri.s
